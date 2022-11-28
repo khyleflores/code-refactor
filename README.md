@@ -18,7 +18,7 @@ N/A
 
 ## Usage
 
-To use this website, click [Horiseon Refactored Website](khyleflores.github.io/horiseon-search-optimization) or follow the link below:
+To use this website, click follow the link below:
 
 khyleflores.github.io/horiseon-search-optimization 
 
@@ -39,6 +39,8 @@ Each of the images and icons on the webpage has alt attributes which can be view
 ## Features
 
 One of the features that was added in this website is the icon on the title bar. For now the "H" letter from the Horiseon title on the website was used for the image. This can be changed once the company decides to change the branding or the icon. Adding an icon or what we call "favicon" on the title bar is considered to be good for the SEO of the website. There might be no direct SEO or search rank effect by adding this icon but there are some indirect benefits which is increased usability of site and the other benefit is easy remembrance when looking at the bookmark (Snow-Wasserman, 2018). Using favicons will also help users remember the website whilst they continue to browse different URLs.
+
+![Favicon H for Horiseon](/assets/images/Favicon-screenshot.png)
 
 ## Credits
 
