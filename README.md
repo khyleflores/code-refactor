@@ -1,8 +1,8 @@
-# Optimizing Horiseon Website for Search Engines
+# Code Refactor
 
 ## Description
 
-A marketing agency has hired me to refactor an existing site to make it more accessible. This existing site is for Horiseon Social Solution Services. It is important that a website is accessible so that people with disability will be able to access the website like everyone else. They can do this with the use of devices such as video captions, screen readers and braille keyboards. Therefore, I needed to make sure that the images on the website have good 'alt' attributes. These attributes are "short written description of an image, which makes sense of that image when it can't be viewed for some reason" (Parry, 2020). Not only will it help the accessibility for the disabled but it will also make the SEO of the website better. Semantic HTML elements were used to replace Non-semantic elements as these will make the codes readable to other developers and will be easier for browsers to interpret. 
+Optimizing Horiseon Website for Search Engines. A marketing agency has hired me to refactor an existing site to make it more accessible. This existing site is for Horiseon Social Solution Services. It is important that a website is accessible so that people with disability will be able to access the website like everyone else. They can do this with the use of devices such as video captions, screen readers and braille keyboards. Therefore, I needed to make sure that the images on the website have good 'alt' attributes. These attributes are "short written description of an image, which makes sense of that image when it can't be viewed for some reason" (Parry, 2020). Not only will it help the accessibility for the disabled but it will also make the SEO of the website better. Semantic HTML elements were used to replace Non-semantic elements as these will make the codes readable to other developers and will be easier for browsers to interpret. 
 
 I was tasked to make the web accessibility better by meeting the following standards:
 
