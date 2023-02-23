@@ -18,9 +18,9 @@ N/A
 
 ## Usage
 
-To use this website, click on this [link](https://khyleflores.github.io/horiseon-search-optimization "Horiseon Website") or follow the link below:
+To use this website, click on this [link](https://khyleflores.github.io/code-refactor/ "Horiseon Website") or follow the link below:
 
-https://khyleflores.github.io/horiseon-search-optimization  
+https://khyleflores.github.io/code-refactor/  
 
 On the website, you will be able to see navigations on top right side of the page. 
 
